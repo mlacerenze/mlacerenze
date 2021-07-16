@@ -13,10 +13,9 @@
 ##### Languages, technologies and tools I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
