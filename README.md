@@ -1,4 +1,4 @@
-##### Hi, I'm Marcos:
+## Hi, I'm Marcos:
 
 - 💼 I’m currently working on CoderHouse
 - 🐍 I’m currently learning Python with Flask and Pentesting
@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-3C8DAD?style=for-the-badge&logo=react&logoColor=white)](http://marcoslacerenze.herokuapp.com/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-F5A962?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marklacerenze/)
 
-##### Languages, technologies and tools I use
+#### Languages, technologies and tools I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white)
