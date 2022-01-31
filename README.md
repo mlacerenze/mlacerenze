@@ -1,8 +1,8 @@
 ## Hi, I'm Marcos:
 
 - 💼 I’m currently working on CoderHouse
-- 🐍 I’m currently learning Python with Flask and Pentesting
-- 🔷 My instagram: https://www.instagram.com/marklacerenze/
+- 🐍 I’m currently learning Python with Flask 
+- 🔷 My instagram: https://www.instagram.com/mlacerenze/
 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-DDDDDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklacer@gmail.com)
