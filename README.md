@@ -1,6 +1,5 @@
 ## Hi, I'm Marcos:
 
-- 💼 I’m currently working on CoderHouse
 - 🤟 Python lover
 - 🐍 I’m currently learning Python with Flask 
 - 🔷 My instagram: https://www.instagram.com/mlacerenze/
