@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mlacerenze&color=006bed)
+
 ## Hi, I'm Marcos:
 
 - 🤟 Python lover
