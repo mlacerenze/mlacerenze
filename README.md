@@ -11,7 +11,6 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-DDDDDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklacer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-125D98?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlacerenze/)
-[![Portfolio In Progress](https://img.shields.io/badge/-PORTFOLIO-3C8DAD?style=for-the-badge&logo)](http://marcoslacerenze.herokuapp.com/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-F5A962?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marklacerenze/)
 
 #### Languages, technologies and tools I use
