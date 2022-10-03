@@ -15,14 +15,11 @@
 
 #### Languages, technologies and tools I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![sqlite](https://img.shields.io/badge/-sqlite-000000?style=flat&logo=sqlite)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
