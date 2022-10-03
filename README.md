@@ -27,3 +27,4 @@
 ![Npm](https://img.shields.io/badge/-npm-000000?style=flat-square&logo=npm)
 ![MacOS](http://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=macos&logoColor=ffffff)
 ![Pip](http://img.shields.io/badge/-Pip-000000?style=flat-square&logo=pip&logoColor=ffffff)
+![Excel](http://img.shields.io/badge/-Excel-000000?style=flat-square&logo=pip&logoColor=ffffff)
