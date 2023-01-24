@@ -3,7 +3,7 @@
 ## Hi, I'm Marcos:
 
 - 🤟 Python lover
-- 🐍 I’m currently learning Python and Data Analyst
+- 🐍 I’m currently learning Data Analyst (using Excel, SQL & Python)
 - 🤖 If you like my content and want to help me with a small contribution:
 - - ☕ https://cafecito.app/mlacerenze
 - - 🍭 https://paypal.me/mlacerenze?country.x=AR&locale.x=es_XC
